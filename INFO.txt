@@ -1,0 +1,53 @@
+-------------
+Introduction
+-------------												
+	Welcome to Paint Street Fighter, a 2D two player combat game developed in Turing. In this game, your objective is to knock out your opponent by reducing their health points to zero. You must stay both offensive and defensive to win with the use of damaging attacks and evasive maneuvers.
+
+--------------
+Health Points
+--------------
+	Each player starts with 3 sets of 30 health points. Whenever a player is damaged, their health points are depleted by either 3 or 6 points, depending on what attack was used against them. When 30 health points have been depleted, the player moves onto their next set of 30 health points, and so on until their health points have been completely depleted. Each set of health points is represented by a health bar; the first set is a green bar, the second set is an orange bar, and the last set is a red bar. Once a player has no more health points, they are knocked out and the other player wins.
+
+-------
+Combat
+-------
+	Fighting is essential in Paint Street Fighter, after all it is a fighting game. There are two attacks that both players can perform: punch and kick. Although both are melee attacks, they are completely different and have their own advantages and disadvantages. Punches are quick yet short range attacks that are relatively weaker than kicks (inflict 3 points of damage). Kicks are slow yet long range attacks that inflict double the damage of punches (inflict 6 points of damage). Mix both attacks consecutively to deal devastating amounts of damage within a brief period of time.
+
+---------
+Movement
+---------
+	To avoid attacks in Paint Street Fighter, it is crucial to use your player’s swift movements to your advantage. Each player can dodge attacks by jumping and moving around while in the air. There is no blocking in this game, so you’ll have to rely heavily on vertical movement, not just horizontal. You cannot double jump or damage the other player by jumping onto them. Players can also punch and kick while in the air, enabling air-borne combat and aerial KO's.
+
+-----------------------
+Additional Information
+-----------------------
+	This game was created by Alex Lipianu in Mrs. Duchenne’s grade 10 Computer Engineering course of the 2014/2015 school year. As of 6/4/2015, this is the first program I have ever made, with no programming experience prior to this. I very much enjoyed working on Paint Street Fighter, familiarizing myself with the Turing programming language, and learning various programming concepts. This game has been revisited, revised, and optimized since the submission date. If you have any questions, concerns, or requests, please feel free to contact me at alexlipianu@live.ca. You can also view the rest of my projects at https://github.com/alipianu.
+
+----------------------
+Copyright Information
+----------------------
+	Paint Street Fighter was developed as a proof of concept for non-profit educational purposes. Copying, reverse engineering, transmission, public performance, and distribution of Paint Street Fighter for educational purposes is allowed. Rental, pay for play, and sale of Paint Street Fighter is strictly prohibited. All audio assets included in Paint Street Fighter are free to use or licenced under and used in compliance with a Creative Commons Attribution License (CC by 3.0 or CC by 4.0). All maps in Paint Street Fighter were modified from the originals in compliance with Fair Use. Any assets infringing copyright will be immediately removed from Paint Street Fighter upon notice. Appropriate credits are awarded in the credits menu. Published and developed by Alexander Lipianu. All rights reserved to their respective owners.
+CC by 3.0: https://creativecommons.org/licenses/by/3.0/
+CC by 4.0: https://creativecommons.org/licenses/by/4.0/
+
+--------
+Credits
+--------
+	Thank you especially to Ross Bugden who supplied most of the background music in Paint Street Fighter with his great copyright and royalty free music! Also, thank you to Kevin MacLeod for the free Arabic soundtrack and SunnYz for the free endgame soundtrack. Lastly, thank you to Omgilluminati, Videos Effect and Sound Effect, and Adam Weeden for the free sound effects.
+
+Audio:
+Something Wicked by Ross Bugden: https://www.youtube.com/watch?v=Zuw_O5MU5CE
+Welcome to Chaos by Ross Bugden: https://www.youtube.com/watch?v=q5w5VX4tAD4 
+Button Masher by Ross Bugden: https://www.youtube.com/watch?v=kIBwWd2_NT8 
+Rapture by Ross Bugden: https://www.youtube.com/watch?v=vja87ZXejyk 
+Ibn-Al-Noor by Kevin MacLeod: https://www.youtube.com/watch?v=pzeoF5AOVK8 
+Punch Sound Effect by Omgilluminati: https://www.youtube.com/watch?v=Tp7sDYEq5vI 
+Punch sound effect +free download by Videos Effect and Sound Effect: https://www.youtube.com/watch?v=oXWj19Y7ul4 
+Victory by SunnYz: https://www.youtube.com/watch?v=uWG1pWSpx_E 
+Die or Lose Life by Adam Weeden: http://freesound.org/people/AdamWeeden/sounds/157218/
+
+Original Backgrounds:
+http://anthony.legal2.free.fr/KOFXI/Stages/stages%20kofxi.htm 
+http://wallpaperswide.com/mortal_kombat_9_kahns_coliseum-wallpapers.html 
+https://en.touhouwiki.net/wiki/File:Th135_Palace_of_the_Earth_Spirits.png#filelinks
+http://i.imgur.com/ZG9XI.jpg 
